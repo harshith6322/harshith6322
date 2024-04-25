@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm harshith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithreddy6322&label=Profile%20views&color=0e75b6&style=flat" alt="harshithreddy6322" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith6322&label=Profile%20views&color=0e75b6&style=flat" alt="harshith6322" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshithr6322" alt="harshithreddy6322" /></a> </p>
 
