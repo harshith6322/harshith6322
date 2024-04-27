@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: i am Harshith an front-end developer 
 🔭 I’m currently working on :     Front-end dev     <br>🌱 I’m currently learning :          MEARN-STACK DEV  <br>💬 Ask me about :                        REACT.JS , NEXT.JS<br>⚡ Fun fact :                                   I code everyday 🙃
 
 
