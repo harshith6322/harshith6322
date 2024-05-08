@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on : React.js && Next.js<br>👯 I’m looking to collaborate on : open source project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning : MEARN-STACK && DEVOPS<br>💬 Ask me about : FRONT-END DEVELOPMENT <br>⚡ Fun fact  : life is like CRUD operations, where we constantly Create new experiences, Read our environment, Update our perspectives, and Delete negativity to move forward!
+# 💫 About Me: hi! i am Harshith Reddy
+🔭 I’m currently working on : React.js && Next.js<br>👯 I’m looking to collaborate on : open source project<br>🤝  I’m currently learning : MEARN-STACK && DEVOPS<br>💬 Ask me about : FRONT-END DEVELOPMENT <br>⚡ Fun fact  : life is like CRUD operations, where we constantly Create new experiences, Read our environment, Update our perspectives, and Delete negativity to move forward!
 
 
 ## 🌐 Socials:
