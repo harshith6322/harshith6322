@@ -1,5 +1,7 @@
-# 💫 About Me: hi! i am Harshith Reddy
-🔭 I’m currently working on : React.js && Next.js<br>👯 I’m looking to collaborate on : open source project<br>🤝  I’m currently learning : MEARN-STACK && DEVOPS<br>💬 Ask me about : FRONT-END DEVELOPMENT <br>⚡ Fun fact  : life is like CRUD operations, where we constantly Create new experiences, Read our environment, Update our perspectives, and Delete negativity to move forward!
+# 💫 About Me:
+<h3> Hi! I’m Harshith Reddy, a passionate developer who thrives on building dynamic web applications using modern technologies. I have experience in <b>MERN stack</b> (MongoDB, Express.js, React.js, Node.js) and <b>DevOps practices</b>, making me well-versed in both development and deployment pipelines. Currently, I’m working on enhancing my skills with React.js and Next.js while diving deeper into DevOps tools and methodologies. I’m always open to collaborating on open-source projects and growing through community contributions.</h3>
+
+⚡ Fun Fact: Life is like CRUD operations — we constantly Create new experiences, Read our environment, Update our perspectives, and Delete negativity to move forward!
 
 
 ## 🌐 Socials:
@@ -11,15 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=harshith6322&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshith6322&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshith6322&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshith6322&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshith6322&icon=5&color=0)](https://visitcount.itsvg.in)
