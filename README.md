@@ -1,20 +1,79 @@
-# 💫 About Me:
-<h3> Hi! I’m Harshith Reddy, a passionate developer who thrives on building dynamic web applications using modern technologies. I have experience in <b>MERN stack</b> (MongoDB, Express.js, React.js, Node.js) and <b>DevOps practices</b>, making me well-versed in both development and deployment pipelines. Currently, I’m working on enhancing my skills with React.js and Next.js while diving deeper into DevOps tools and methodologies. I’m always open to collaborating on open-source projects and growing through community contributions.</h3>
+<h1 align="center">Hey Everyone 👋, I'm Harshith Reddy</h1>
 
-⚡ Fun Fact: Life is like CRUD operations — we constantly Create new experiences, Read our environment, Update our perspectives, and Delete negativity to move forward!
+<div align="center">
+  <img src="https://github.com/harshith6322/harshith6322/blob/main/banner.png" alt="DevOps Banner">
+</div>
 
+<h3 align="center">
+A passionate DevOps & Cloud Engineer from India 🚀  
+Specializing in CI/CD, Cloud Infrastructure, and Automation
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshith6322) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshith-reddy-212279211) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshith6322) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/harshith-reddy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshith6322) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/harshith6322) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshith6322&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshith6322&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshith6322&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/harshith6322">
+    <img src="https://img.shields.io/github/followers/harshith6322?label=Follow&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/harshith-reddy-212279211">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshith%20Reddy-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="https://x.com/harshith6322">
+    <img src="https://img.shields.io/twitter/follow/harshith6322?style=social" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshith6322&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+- 🚀 Skilled in **DevOps, Cloud Infrastructure, and Automation**
+- ⚡ Experienced with **CI/CD pipelines, Containerization, and Cloud Deployments**
+- ☁️ Working with **AWS, Kubernetes, Terraform, and Docker**
+- 🛠 Automating deployments using **Jenkins, GitHub Actions, and ArgoCD**
+- 📫 Reach me at **harshithreddy.dev@gmail.com**
+
+---
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshith-reddy-212279211)
+[![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/harshith6322)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshith6322)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/harshith-reddy)
+
+---
+
+### 🛠 Tech Stack (DevOps Focused)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshith6322&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith6322&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith6322&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+---
+
+### 🔥 GitHub Contribution Streak
+![GitHub Streak Badge](https://img.shields.io/badge/Commit%20Streak-🔥%20Active-brightgreen?logo=github&style=for-the-badge)
+
+---
+
+### 👨‍💼 Open to:
+- **DevOps Consulting & Mentorship**
+- **Cloud Infrastructure Projects**
+- **Open Source Collaboration**
+
+💬 *"Automating the future, one pipeline at a time!"*
