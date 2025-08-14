@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Harshith Reddy</h1>
 
 <div align="center">
-  <img src="https://github.com/harshith6322/harshith6322/blob/main/banner.png" alt="DevOps Banner">
+  <img src="https://github.com/harshith6322/harshith6322/blob/main/_Purple%20Geometric%20Technology%20Linkedin%20Banner.png" alt="DevOps Banner">
 </div>
 
 <h3 align="center">
